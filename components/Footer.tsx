@@ -15,9 +15,9 @@ const Footer = () => {
           <div className="w-24 h-24 mb-6">
             <Logo className="w-full h-full" />
           </div>
-          <p className="text-sm text-gray-400 max-w-xs leading-relaxed">
+          {/* <p className="text-sm text-gray-400 max-w-xs leading-relaxed">
             多言語AIで、企業のフロント対応を自動化・効率化。
-          </p>
+          </p> */}
         </div>
 
         {/* 右側セクション（連絡先） */}
